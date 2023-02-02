@@ -1,4 +1,4 @@
-Werkzeug==0.15.3
+Werkzeug==0.15.5
 Flask==1.0
 Jinja2==2.8
 watson-developer-cloud==0.26.0
